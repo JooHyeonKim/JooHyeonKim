@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-[![JooHyeonKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHyeonKim&show_icons=true&&hide_border=falsetheme=vue)](https://github.com/JooHyeonKim/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooHyeonKim&layout=compact)](https://github.com/JooHyeonKim/github-readme-stats)
+[![JooHyeonKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHyeonKim&show_icons=true&hide_border=true&theme=vue)](https://github.com/JooHyeonKim/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooHyeonKim&layout=compact)](https://github.com/JooHyeonKim/github-readme-stats)
 
 
 
