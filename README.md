@@ -1,4 +1,4 @@
-<h2> Hi 👋 &nbsp;,  &nbsp; I'm JooHyun</h2>
+<h2> Hi 👋 &nbsp;,  &nbsp; I'm JooHyeon</h2>
 
 <p align="left">
 </p>
