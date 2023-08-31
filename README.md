@@ -6,7 +6,7 @@
 
 [![JooHyeonKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHyeonKim&show_icons=true&hide_border=true&theme=shadow_blue)](https://github.com/JooHyeonKim/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooHyeonKim&layout=compact)](https://github.com/JooHyeonKim/github-readme-stats)
 
-## Career
+##  📃 Career
 - 언남고등학교 졸업 (2016.03. ~ 2019.02.)
 - 중앙대학교 소프트웨어학과 재학중 (2022.03 ~ )
 - 위례 스키마교육코딩센터 C언어 강사 (22.12.31~ 23.08.26)
