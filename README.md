@@ -7,12 +7,12 @@
 [![JooHyeonKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHyeonKim&show_icons=true&hide_border=true&theme=shadow_blue)](https://github.com/JooHyeonKim/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooHyeonKim&layout=compact)](https://github.com/JooHyeonKim/github-readme-stats)
 
 ##  📃 Career
-- 언남고등학교 졸업 (2016.03. ~ 2019.02.)
-- 중앙대학교 소프트웨어학과 재학중 (2022.03 ~ )
-- 중앙대학교 인공지능 보안 및 암호 연구실(PAICLAB) PRE (2023.6.16 ~ 2023.8.25)
-- 위례 스키마교육코딩센터 C언어 강사 (22.12.31~ 23.08.26)
-- 2023 CAU LINC3.0 캡스톤디자인 경진대회 🏆 우수상 (2023. 6. 23)
-- 제 4회 대학생 나눔봉사 해커톤 🏆 최우수상 (2023. 8. 25)
+- 🏫 언남고등학교 졸업 (2016.03. ~ 2019.02.)
+- 🏫 중앙대학교 소프트웨어학과 재학중 (2022.03 ~ )
+- 🗝️ 중앙대학교 인공지능 보안 및 암호 연구실(PAICLAB) PRE (2023.6.16 ~ 2023.8.25)
+- 👩🏻‍🏫 위례 스키마교육코딩센터 C언어 강사 (22.12.31~ 23.08.26)
+- 🏅 2023 CAU LINC3.0 캡스톤디자인 경진대회 🏆 우수상 (2023. 6. 23)
+- 🏅 제 4회 대학생 나눔봉사 해커톤 🏆 최우수상 (2023. 8. 25)
 
 
 <br>
