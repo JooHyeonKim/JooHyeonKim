@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-[![JooHyeonKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHyeonKim&show_icons=true&hide_border=true&theme=shadow_blue)](https://github.com/JooHyeonKim/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooHyeonKim&layout=compact)](https://github.com/JooHyeonKim/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subin_282)](https://solved.ac/subin_282/)
+[![JooHyeonKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHyeonKim&show_icons=true&hide_border=true&theme=shadow_blue)](https://github.com/JooHyeonKim/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooHyeonKim&layout=compact)](https://github.com/JooHyeonKim/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subin_282)](https://solved.ac/subin_282/)
 
 
 
